@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "HP Laptop",
+      "description": "Powerful laptop for professionals",
+      "price": 1299.99,
+      "category": "electronics"
+    },
+    {
+      "id": 2,
+      "name": "Dog Food",
+      "description": "Organic food for your furry friends",
+      "price": 19.99,
+      "category": "pets"
+    },
+    {
+      "id": 3,
+      "name": "Golf Club Set",
+      "description": "Titleist golf club set for beginners",
+      "price": 399.99,
+      "category": "sports"
+    },
+    {
+      "id": 4,
+      "name": "egwe",
+      "price": "2",
+      "category": "home",
+      "description": "ergerg"
+    },
+    {
+      "id": 5,
+      "name": "sfref",
+      "price": "3",
+      "category": "home",
+      "description": "2rq355g5qg"
+    },
+    {
+      "id": 6,
+      "name": "l",
+      "price": "3",
+      "category": "home",
+      "description": "gg"
+    }
+  ]
+}
